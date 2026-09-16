@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 
 # CONFIGURACIÓN DE LA BASE DE DATOS
 
-DATABASE_URL = "mysql+pymysql://root:TU_CONTRASEÑA@localhost/dragon_hambriento"
+DATABASE_URL = "mysql+pymysql://root:kore123@localhost/dragon_hambriento"
 
 # Crear conexión
 engine = create_engine(
